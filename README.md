@@ -2,9 +2,9 @@
 
 ## Info
 
-This program takes info about Jeanne d'Arc's skillbinding system from multiple faqs and puts it an easy to search format to make grinding a bit easier and more time-efficient.
+This program takes info about Jeanne d'Arc's skillbinding system from multiple faqs and puts it an easy to search format to make grinding a bit easier and more time-efficient. I made this program back when I was teaching myself how to program so I'm aware that the documentation and implementation are garbage.  I'm leaving it as is so I can laugh at myself in the future. As such, this program has attained the 'Works on my Machine' badge of honor. I make no promises about it working anywhere else.
 
-I made this program back when I was teaching myself how to program so I'm aware that the documentation and implementation are garbage.  I'm leaving it as is so I can laugh at myself in the future. 
+![certified!](http://i.imgur.com/RbMYC8D.jpg)
 
 ## Sources
 
